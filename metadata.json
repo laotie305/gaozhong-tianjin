@@ -1,0 +1,6 @@
+{
+  "name": "天津市手绘风高中分布地图",
+  "description": "一款专为学生与家长定制的天津市知名高中手绘风分布地图，包含市五所、各区重点等20所顶尖高中分布，以及交通枢纽、经典美食、拍照景点和2026年最新中高考与转学落户政策实用攻略。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
